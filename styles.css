@@ -1,0 +1,36 @@
+.container {
+  width: 70%;
+  margin: auto;
+  text-align: center;
+}
+
+.dice {
+  text-align: center;
+  display: inline-block;
+  margin: 10%;
+
+}
+
+body {
+  background-color: #393E46;
+}
+
+h1 {
+  margin: 30px;
+  font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  text-shadow: 5px 0 #232931;
+  font-size: 6rem;
+  color: #4ECCA3;
+}
+
+p {
+  font-size: 3rem;
+  color: #4ECCA3;
+  font-family: Arial, Helvetica, sans-serif
+}
+
+img {
+  width: 90%;
+}
+
+
